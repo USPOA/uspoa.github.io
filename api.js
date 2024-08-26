@@ -1,5 +1,8 @@
 function params() {
   const params = new URLSearchParams(window.location.search);
-
-  return params.entries()||null
+  const ret = {};
+  for (const [key, value] of params.entries()) {
+    ret[key]=value
+  }
+  return ret.value()
 }
