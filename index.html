@@ -1,10 +1,15 @@
 <html>
   <head>
-      <title>USP Official</title>
+    <title>USP Official</title>
+    <script src='api.js'></script>
   </head>
   <body>
     <div id='web'>
       <h1>USP Official Administration</h1>
+      <span id='message'></span>
     </div>
+    <script>
+      document.getElementById('message').innerHTML=`Logged in as: ${params().username||'None'}`;
+    </script>
   </body>
 </html>
