@@ -4,5 +4,5 @@ function params() {
   for (const [key, value] of params.entries()) {
     ret[key]=value
   }
-  return ret.value()
+  return ret
 }
