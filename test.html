@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Extract GET Parameters</title>
+</head>
+<body>
+    <div id="urlParams"></div>
+
+    <script>
+        // Function to get URL parameters
+        function getUrlParameters() {
+            const params = new URLSearchParams(window.location.search);
+            let paramString = '';
+
+            for (const [key, value] of params.entries()) {
+                paramString += `${key}: ${value}<br>`;
+            }
+
+            return paramString || 'No URL parameters found.';
+        }
+
+        // Display URL parameters in the div
+        document.getElementById('urlParams').innerHTML = getUrlParameters();
+    </script>
+</body>
+</html>
