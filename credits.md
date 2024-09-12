@@ -3,24 +3,26 @@
 ## Leaders
 - Gleacc **Founder**
 - Lukas **Supreme Lord**
+- SaturnMist **Duke**
+- Kuromi *Chosen by SaturnMist*
 
 ## Royal Court
-
 ### Lords
+- Lukas
 - SaturnMist
 - Poland Empire
 
 ### Dukes
 - King Whopper I
-- Kuromi
 - Sanc
 
 ### Zeiukes
-- None
+- Kuromi
 
 ## Loyal Allies
 - Poland Empire
-- Elusive Khan
+- void2
+- Thinlatvia
 - Sanc
 
 ## Automation Contributor
@@ -30,5 +32,5 @@
 - Gleacc
 
 ## Owners of States of the USP
-- Lukas **Opkalm**
-- Lukas **Zeiock *Capital***
+- Gleacc **Opkalm**
+- Kuromi **Zeiock *Capital***
