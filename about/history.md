@@ -1,5 +1,3 @@
-Certainly! Here’s the updated essay with the additional details about the UAWGP-Phi war:
-
 # The Phi History
 
 1. ## The Origins
