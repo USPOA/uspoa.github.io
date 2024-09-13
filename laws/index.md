@@ -1,5 +1,7 @@
 # The laws of The Phi
 
+**Note: This document is subject to periodic updates. For any feedback or inquiries, please contact the Discord user *hduebrugrrggr*.**
+
 [§1. Citizen Law](./citizen)
 
 [§2. Royal law](./royal.md)
