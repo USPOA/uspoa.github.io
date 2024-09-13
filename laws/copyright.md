@@ -1,5 +1,5 @@
 # Principles
-
+**Note: This document is subject to periodic updates. For any feedback or inquiries, please contact the Discord user *hduebrugrrggr*.**
 1. **The Constitution**:
    - The Phi constitution belongs to Gleacc. Any claims to own the constitution will be considered pretending to the throne and National Zepting.
 
