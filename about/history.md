@@ -10,7 +10,7 @@ A pivotal moment in The Phi's history came during a disagreement involving Bingo
 
 ## The Formation of New Entities
 
-John, a significant figure within The Phi, created a new server that would eventually become known as the Sarvah Empire. The Sarvah Empire was initially established with the leadership of a former UAWGP leader, who named it Da Sarvah. However, as the empire evolved, it came under the influence of The Brotherhood's communist regime. This led to a rebranding of the empire to Sarvah Order. Despite its initial promise, the Sarvah Order eventually fell to The Brotherhood's regime, marking another significant shift in the political landscape.
+John, a significant figure within The Phi, created a new server that would eventually become known as the Sarvah Empire. The Sarvah Empire was initially established with the leadership of a UAWGP leader, who named it Da Sarvah. However, as the empire evolved, it came under the influence of The Brotherhood's communist regime. This led to a rebranding of the empire to Sarvah Order. Despite its initial promise, the Sarvah Order eventually fell to The Brotherhood's regime, marking another significant shift in the political landscape.
 
 ## The Kingdom of Phi
 
