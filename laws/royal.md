@@ -21,4 +21,4 @@
 6. **Zepting Law**:  
    - **No Claiming of Property Without Ownership**: Royal subjects are prohibited from claiming any property, resources, or assets that do not belong to them. This act, known as **zepting**, is strictly illegal within the empire and will be met with severe penalties. Only authorized transfers of property or ownership are permitted, and they must be sanctioned by the Angulator.
   
-For additional context, please refer to the [Definitions](./laws/definitions) section.
+For additional context, please refer to the [Definitions](./definitions) section.
