@@ -40,4 +40,4 @@
 8. **Zepting Law**:  
    - **No Claiming of Property Without Ownership**: Citizens are forbidden from claiming any property, resources, or assets that do not belong to them. This act, known as **zepting**, is illegal and will result in severe consequences. Only authorized transfers or claims of property are allowed, and they must be approved by the King or designated authority.
   
-For additional context, please refer to the [Definitions](./laws/definitions) section.
+For additional context, please refer to the [Definitions](./definitions) section.
