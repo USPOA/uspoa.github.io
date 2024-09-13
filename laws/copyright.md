@@ -1,7 +1,7 @@
 # Principles
 **Note: This document is subject to periodic updates. For any feedback or inquiries, please contact the Discord user *hduebrugrrggr*.**
 1. **The Constitution**:
-   - The Phi constitution belongs to Gleacc. Any claims to own the constitution will be considered pretending to the throne and National Zepting.
+   - The Phi constitution belongs to John. Any claims to own the constitution will be considered pretending to the throne and National Zepting.
 
 2. **Third-Party Created Content Used by The Phi**:
    - Any third-party generated content that is used by The Empire is owned by The Phi, pursuant to an agreement in place.
