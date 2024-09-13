@@ -23,4 +23,4 @@
 4. **National Zepting**:
    - Any zepting against the empire is considered National Zepting and is not allowed. The punishment for such a crime is detailed in [§2](./laws/royal.md).
 
-For additional context, please refer to the [Definitions](./laws/definitions) section.
+For additional context, please refer to the [Definitions](./definitions) section.
