@@ -1,7 +1,7 @@
 # USP CREDITS
 
 ## Leaders
-- Gleacc **Founder**
+- John **Founder**
 - Lukas **Supreme Lord**
 - SaturnMist **Duke**
 - Kuromi *Chosen by SaturnMist*
@@ -29,8 +29,8 @@
 - Kuromi
 
 ## Constitution Maker
-- Gleacc
+- John
 
 ## Owners of States of the USP
-- Gleacc **Opkalm**
+- John **Opkalm**
 - Kuromi **Zeiock *Capital***
