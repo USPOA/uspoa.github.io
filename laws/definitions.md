@@ -1,4 +1,5 @@
 # Definitions
+**Note: This document is subject to periodic updates. For any feedback or inquiries, please contact the Discord user *hduebrugrrggr*.**
 1. **Bedrock**: A fundamental base or key element used to support or develop something within the empire's structure.
 2. **Mobile**: The condition of being active, operational, and ready for use.
 3. **Ballistic**: A type of mobile projectile designed for use in warfare or combat.
