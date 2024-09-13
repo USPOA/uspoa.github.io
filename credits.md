@@ -1,7 +1,7 @@
 # USP CREDITS
 
 ## Leaders
-- Gleacc **Founder**
+- John **Founder**
 - Lukas **Supreme Lord**
 - SaturnMist **Duke**
 - Kuromi *Chosen by SaturnMist*
