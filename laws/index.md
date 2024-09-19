@@ -8,4 +8,6 @@
 
 [§3. Copyright law](./copyright.md)
 
+[§4. Economy law](./economic.md)
+
 For additional context, please refer to the [Definitions](./definitions) section.
