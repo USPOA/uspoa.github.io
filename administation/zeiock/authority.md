@@ -30,4 +30,9 @@
   - Advise The Angulator
   - Find people to join the military
 
+## Zeiuke
+**Definition**: Below a duke
+
+**Purpose**: Whoever becomes a Zeiuke has to prove themselves to become a Duke.
+
 For additional context, please refer to the [Definitions](./definitions) section.
